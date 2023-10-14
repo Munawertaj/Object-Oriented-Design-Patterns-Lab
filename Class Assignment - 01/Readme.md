@@ -4,7 +4,7 @@ The proposed ATM (Automated Teller Machine) system aims to provide a secure and 
 # UML Sequence Diagram:
 A UML sequence diagram for an ATM system typically depicts interactions between actors (such as the user and the ATM) and the various components of the system. It shows how messages and requests are exchanged during different transactions.
 
-![CHEESE!](ATM Sequence Diagram.png)
+![CHEESE!](ATM.png)
 
 Fig: ATM Sequence Diagram 
 
