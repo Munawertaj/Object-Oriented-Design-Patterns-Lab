@@ -16,7 +16,3 @@ This code demonstrates an Order Fulfillment system using the Proxy Pattern.
 
 1. Initialize the stock levels for warehouses in the `Main.java` file.
 2. Run the `Main` class to see the order fulfillment process.
-
-## License
-
-This code is provided under the MIT License. Feel free to use and modify it for your needs.
